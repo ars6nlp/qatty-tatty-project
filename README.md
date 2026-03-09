@@ -35,7 +35,7 @@ It is intended both as a study project and as a realistic prototype that can be 
   - Separate **“Login as admin”** button
   - Two-step admin login:
     1. First click shows **Admin keyword** field  
-    2. Second click checks keyword and credentials
+    2. Second click checks keyword and credential
   - Admin keyword (demo): `ADMIN123`
   - After successful admin login:
     - user role is saved as `admin`
