@@ -83,7 +83,7 @@ It is intended both as a study project and as a realistic prototype that can be 
 
 1. Download or clone the project  
 2. Open `index.html` (or `login.html`) in a web browser  
-3. No backend or server is required – everything works in the browser using `localStorage`
+3. No backend or server is required – everything work in the browser using `localStorage`
 
 ### Demo flow
 - **Register & login as user**
