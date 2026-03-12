@@ -51,7 +51,7 @@ It is intended both as a study project and as a realistic prototype that can be 
   - Last delivery request stored in `localStorage`
 
 - 🌗 **Theme switcher**
-  - Light / dark mode toggle on all pages
+  - Light / dark mode toggle on all page
   - Theme preference stored in `localStorage`
 
 - 🌐 **UI elements**
