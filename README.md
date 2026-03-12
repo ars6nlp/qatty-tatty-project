@@ -41,7 +41,7 @@ It is intended both as a study project and as a realistic prototype that can be 
     - user role is saved as `admin`
     - profile page shows extra button **“Admin page”**
   - Admin panel:
-    - add new pancakes (name, category, price)
+    - add new pancake (name, category, price)
     - delete items from menu
     - simple report: total items + count per category
 
